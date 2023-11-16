@@ -1,0 +1,3 @@
+kde-plasma/plasma-meta bluetooth browser-integration colord crash-handler crypt desktop-portal display-manager elogind grub gtk kwallet legacy-systray networkmanager plymouth pulseaudio sddm smart wallpapers 
+media-libs/libsndfile minimal
+media-libs/libsdl2 -pipewire
